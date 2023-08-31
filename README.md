@@ -1,2 +1,2 @@
 # Eng_Sof_II
-Engenharia de Stwarte 
+Engenharia de Software II
